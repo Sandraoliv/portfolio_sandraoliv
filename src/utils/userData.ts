@@ -1,8 +1,8 @@
 export const userData = {
   nameUser: "Sandra Oliveira",
   githubUser: "Sandraoliv",
-  linkedinUser: "https://www.linkedin.com/in/sandra-oliveira-46b204208/",
-  whatsappNumber: "",
+  linkedinUser: "sandra-oliveira007",
+  whatsappNumber: "5511951527784",
   emailUser: "sandra.so219@gmail.com",
   instagramUser: "",
   facebookUser: "",
