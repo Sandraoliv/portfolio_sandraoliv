@@ -11,6 +11,11 @@ import {
 } from "react-icons/fa";
 
 export const stackData = [
+{
+  title:"styled",
+  img:"SiStyledcomponents"
+},
+
   {
     title: "HTML",
     img: FaHtml5,
@@ -37,4 +42,6 @@ export const stackData = [
   { title: "PostgreSQL", img: SiPostgresql },
   { title: "Git", img: FaGit },
   { title: "Python", img: FaPython },
+ 
+  
 ];
