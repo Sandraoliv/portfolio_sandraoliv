@@ -11,10 +11,7 @@ import {
 } from "react-icons/fa";
 
 export const stackData = [
-{
-  title:"styled",
-  img:"SiStyledcomponents"
-},
+
 
   {
     title: "HTML",
