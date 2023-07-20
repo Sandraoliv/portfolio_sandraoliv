@@ -59,13 +59,13 @@ export const Home = (): JSX.Element => {
             </Text>
             <Text type="body1" color="grey2">
             Bem vindo ao meu github , eu sou a Sandra desenvolvedora front end .
-Apaixonada por tecnologia, adoro resolver enigmas.
+Apaixonada por tecnologia, adoro desafios e estou sempre em busca de aprender algo novo.
 Meus primeiros contatos com a programação foram por curiosidade, e oque era curiosidade logo se tornou uma paixão, e hoje não me imagino fazendo outra coisa.
 Sinta-se a vontade para esplorar um pouco , e ver meus projetos!
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
-              Meus projetos
+              Alguns dos meus projetos
               </Button>
               <Button as="a" type="outline" target="_blank" href={portfolioUrl}>
               Código-fonte do meu portfólio
